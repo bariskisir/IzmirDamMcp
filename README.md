@@ -2,6 +2,8 @@
 
 IzmirDamMcp is a FastMCP server that provides daily water status and occupancy rates for dams in Izmir, Turkey. It fetches data from the official IZSU API. 
 
+<img src="screenshot.png" alt="Screenshot" width="80%">
+
 This project is built using `mcp` (FastMCP) and is intended to be deployed on `https://izmir-dam-mcp.vercel.app/mcp` using [Vercel](https://vercel.com).
 
 ## Tools
