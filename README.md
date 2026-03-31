@@ -39,9 +39,4 @@ To use this MCP server in Antigravity, add the following to your `mcp_config.jso
 }
 ```
 
-### 2. Claude Code
-You can add the remote SSE server to Claude Code via the CLI:
-```bash
-claude mcp add izmirdammcp sse --url https://izmir-dam-mcp.vercel.app/mcp
-```
 
